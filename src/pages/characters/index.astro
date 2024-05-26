@@ -1,0 +1,23 @@
+---
+import { getCollection } from "astro:content";
+import List from "@components/List.astro";
+import ListItem from "@components/ListItem.astro";
+import Layout from "@layouts/Layout.astro";
+
+const characters = await getCollection("characters");
+---
+
+<Layout title="Characters">
+  <List>
+    {
+      characters.map((character) => (
+        <>
+          <ListItem
+            title={character.data.name}
+            href={`/characters/${character.slug}`}
+          />
+        </>
+      ))
+    }
+  </List>
+</Layout>

@@ -1,0 +1,4 @@
+---
+name: Irina Barkovitch
+---
+Alchémiste issue d'une grande famille de Kniga qui connaît Edward. Elle est invitée à l'Académie de magie d'Aria depuis 2 ans et y a un laboratoire d'alchimie personnel.

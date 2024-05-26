@@ -1,0 +1,24 @@
+---
+import { getCollection } from "astro:content";
+import List from "@components/List.astro";
+import ListItem from "@components/ListItem.astro";
+import Layout from "@layouts/Layout.astro";
+
+const chronicles = await getCollection("chronicles");
+const characters = await getCollection("characters");
+---
+
+<Layout title="Cosmogony">
+  <List>
+    <ListItem
+      title="Chronicles"
+      subtitle={`${chronicles.length} entries`}
+      href="/chronicles"
+    />
+    <ListItem
+      title="Characters"
+      subtitle={`${characters.length} entries`}
+      href="/characters"
+    />
+  </List>
+</Layout>
