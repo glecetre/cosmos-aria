@@ -14,7 +14,7 @@ const characters = await getCollection("characters");
         <>
           <ListItem
             title={character.data.name}
-            href={`/characters/${character.slug}`}
+            href={`./characters/${character.slug}`}
           />
         </>
       ))

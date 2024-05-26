@@ -13,7 +13,7 @@ const chronicles = await getCollection("chronicles");
       chronicles.map((chronicle) => (
         <ListItem
           title={chronicle.data.title}
-          href={`/chronicles/${chronicle.slug}`}
+          href={`./chronicles/${chronicle.slug}`}
           actionText="Read"
         />
       ))

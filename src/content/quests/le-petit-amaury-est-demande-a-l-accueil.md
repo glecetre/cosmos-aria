@@ -1,3 +1,7 @@
+---
+title: Le petit Amaury est demandé à l'accueil
+---
+
 #quête #quete_secondaire
 
 Le [[Juge Prima]] nous demande de retrouver Amaury, le fils de la famille Treherne, qui a disparu. La milice des nobles est un peu trop agressive et importune pour le peuple, et le juge veut que cela cesse au plus vite.
