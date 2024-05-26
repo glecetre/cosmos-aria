@@ -1,5 +1,6 @@
 ---
 title: Jour 4
+order: 2
 ---
 Horio, le chef des mineurs, nous dit que Kaldera a noyé le Sénéchal dans la rivière et détruit le pont + la statut de la déesse vénérée par le village
 C'est un Osmanlien, pays ennemi (comme Wangdak)

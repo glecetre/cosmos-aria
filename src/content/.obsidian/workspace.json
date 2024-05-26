@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8c06b3cc271480b2",
+        "id": "13ea82333e94fd3d",
         "type": "tabs",
         "children": [
           {
-            "id": "0e8c1bf5921dc903",
+            "id": "364406cc9e7a9290",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "characters/Skalroune.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "characters/Skalroune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "characters/Skalroune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,34 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e8c1bf5921dc903",
+  "active": "364406cc9e7a9290",
   "lastOpenFiles": [
-    "characters/jean-david-xelonus.md",
-    "characters/rupert.md",
-    "quests/l-enigme-de-la-chapelle-abandonnee.md",
-    "quests/apolonus-a-disparu.md",
-    "quests/avis-de-recherche-hermance-de-jonquasse.md",
-    "quests/demanteler-la-guilde-des-poissonniers.md",
-    "quests/la-foret-maudite.md",
-    "quests/la-quete-de-siobhan.md",
-    "quests/le-sceptre-du-roi-des-rois.md",
-    "quests/le-traducteur-amasien.md",
-    "quests/les-epices-de-l-aubergiste.md",
-    "quests/survivants-d-une-armee-inexistante.md",
-    "quests/traquer-et-tuer-caldera.md",
-    "quests/une-fleur-pour-un-gateau.md",
-    "quests/le-petit-amaury-est-demande-a-l-accueil.md",
-    "quests/aller-voir-le-juge-prima-a-aria.md",
-    "characters/skalroune.md",
-    "characters/musa.md",
-    "characters/melandra-vanderme.md",
-    "characters/malik-almouk.md",
-    "characters/mac-murdoc.md",
-    "characters/irina-barkovitch.md",
-    "characters/inna.md",
-    "characters/honorine-bicastre.md",
-    "characters/han-du-rideau.md",
-    "characters/garnier.md",
+    "characters/Rupert.md",
+    "characters/Musa.md",
+    "characters/Mélandra Vanderme.md",
+    "characters/Malik Almouk.md",
+    "characters/Mac Murdoc.md",
+    "characters/Luna Haï Zachia.md",
+    "characters/Juge Prima.md",
+    "characters/Jean-David Xélonus.md",
+    "characters/Irina Barkovitch.md",
+    "characters/Inna.md",
+    "characters/Honorine Bicastre.md",
+    "characters/Han du Rideau.md",
+    "characters/Garnier.md",
+    "characters/Élyas de Keliwic.md",
+    "characters/Elena Korzeus.md",
+    "characters/Aristarque.md",
+    "characters/Caecus.md",
+    "characters/Caldéra.md",
+    "characters/Dame Hermance.md",
+    "chronicles/jour-3.md",
+    "chronicles/jour-16.md",
+    "chronicles/jour-15.md",
+    "chronicles/jour-14.md",
+    "chronicles/jour-13.md",
+    "chronicles/jour-12.md",
+    "chronicles/jour-11.md",
     "doc_templates",
     "doc_templates"
   ]

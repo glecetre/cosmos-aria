@@ -1,0 +1,1 @@
+Mage amie de [Honorine Bicastre](characters/Honorine%20Bicastre.md). Honorine m'a demandé d'aller la voir pour terminer mon apprentissage, puisqu'elle a été arrêtée et est condamnée à mort.

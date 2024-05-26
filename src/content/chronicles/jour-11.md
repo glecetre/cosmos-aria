@@ -1,7 +1,8 @@
 ---
 title: Jour 11
+order: 9
 ---
-De retour à l'orée de la forêt, après quelques mètres, on trouve le corps de [[Musa]].
+De retour à l'orée de la forêt, après quelques mètres, on trouve le corps de [[characters/Musa]].
 Sur son corps, on trouve un parchemin écrit dans une langue étrangère (voir Message sur Musa sur Let's Role).
 Son chameau est à côté, ouvert et les boyaux dégoulinant.
 
@@ -13,9 +14,9 @@ On l'enterre sur le côté de la route.
 
 On sort de la forêt par le nord. On trouve 3 personnes qui disent être une escouade du seigneur du Rideau prélevant des taxes.
 
-A coup de magie, je leur retourne le cerveau et ils nous rejoignent. Ils me donnent le fez de [[Musa]] et une boîte en métal ouvragée. Aneth, Torlef et Kaya.
+A coup de magie, je leur retourne le cerveau et ils nous rejoignent. Ils me donnent le fez de [[characters/Musa]] et une boîte en métal ouvragée. Aneth, Torlef et Kaya.
 
-La boîte en métal porte un sceau et un ouvrage similaire aux figures qu'on a vu sur le parchemin qui était sur le corps de [[Musa]].
+La boîte en métal porte un sceau et un ouvrage similaire aux figures qu'on a vu sur le parchemin qui était sur le corps de [[characters/Musa]].
 Siobhan reconnaît le sigle d'Akaba, un royaume.
 
 ! Arrivée à Aria

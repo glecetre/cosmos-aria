@@ -1,5 +1,6 @@
 ---
 title: Jour 6
+order: 4
 ---
 Le soleil brille sur Clavaud et on a la pêche. 
 

@@ -1,5 +1,6 @@
 ---
 title: Jour 15
+order: 13
 ---
 Au réveil, l'aubergiste est déjà en train de raconter le pipeau de Sai à qui veut l'entendre.
 
@@ -23,7 +24,7 @@ Edward arrive et demande un déguisement d'élève de l'Académie, ce que fait N
 
 # Au manoir...
 
-Wangdak et Sai interrogent un majordome nommé Edmond. Il dit que la dernière obsession d'Amaury était la botanique. Il a disparu pendant la nuit. La chambre a l'air intacte. Ils vont fouiller la chambre. Le majordome indique aussi que [[jean-david-xelonus]] a été invité par dame Hermance à la soirée Treherne. Elle est à Aria du coup. [[jean-david-xelonus]] est son protégé, il lui aurait sauvé la vie.
+Wangdak et Sai interrogent un majordome nommé Edmond. Il dit que la dernière obsession d'Amaury était la botanique. Il a disparu pendant la nuit. La chambre a l'air intacte. Ils vont fouiller la chambre. Le majordome indique aussi que [[characters/Jean-David Xélonus]] a été invité par dame Hermance à la soirée Treherne. Elle est à Aria du coup. [[characters/Jean-David Xélonus]] est son protégé, il lui aurait sauvé la vie.
 Dans la chambre d'Amaury, rien à signaler. Wangdak et Sai retournent poser des questions à Edmond. Il leur dit qu'il avait un objet précieux qui est un compas / une boussole. Il leur avoue aussi qu'Amaury a été adopté. On attend maintenant que son professeur arrive.
 
 # À l'auberge...
@@ -101,7 +102,7 @@ On fait part de nos informations sur l'affaire [[le-petit-amaury-est-demande-a-l
 
 Conclusion : il s'est barré pour découvrir le monde et "probablement qu'il est maintenant à moitié crevé quelque part sur une route". Quel tact, ce Sai.
 
-On fait part de nos doutes à propos de [[jean-david-xelonus]]. Il était à la soirée Treherne même si on ne comprend pas pourquoi. Le Juge veut qu'on poursuive cette enquête mais le Sai il en a ras la casquette wallah.
+On fait part de nos doutes à propos de [[characters/Jean-David Xélonus]]. Il était à la soirée Treherne même si on ne comprend pas pourquoi. Le Juge veut qu'on poursuive cette enquête mais le Sai il en a ras la casquette wallah.
 
 Le Juge fait mention de la fausse identité "Taka" de Sai, et de l'assassin de Damacia, sans aller au bout de sa pensée. Sai lui tient tête donc le Juge nous _conseille_ de quitter la ville d'ici une heure.
 

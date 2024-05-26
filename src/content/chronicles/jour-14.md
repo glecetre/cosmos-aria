@@ -1,5 +1,6 @@
 ---
 title: Jour 14
+order: 12
 ---
 Pendant la nuit, la cicatrice à la main d'Edward le fait souffrir, elle s'aggrave. Au réveil, on part au temple pour voir ce qu'on peut faire.
 
@@ -22,7 +23,7 @@ Ce soir elle sera à la soirée des Treherne avec un masque dont les yeux sont l
 
 Elle nous parle d'une potion rose en haut et bleu en bas qui devrait rend beau gosse n'importe qui, mais temporairement. On peut la prendre dans son labo.
 
-Le bibliothécaire nous indique que le livre a été emprunté pour la dernière fois il y a deux semaines par Armory de Treherne. Elle dit qu'Armory n'aurait pas dû pouvoir emprunter le livre et qu'il y a probablement eu soudoiement. Elle fait référence à Alphonse, le bibliothécaire de nuit. Elle a averti [[Skalroune]], la responsable des inquisiteurs.
+Le bibliothécaire nous indique que le livre a été emprunté pour la dernière fois il y a deux semaines par Armory de Treherne. Elle dit qu'Armory n'aurait pas dû pouvoir emprunter le livre et qu'il y a probablement eu soudoiement. Elle fait référence à Alphonse, le bibliothécaire de nuit. Elle a averti [[characters/Skalroune]], la responsable des inquisiteurs.
 
 ! L'atelier d'alchimie d'[[Irina Barkovitch]].
 C'est. le. bordel. Niko chourre une potion au hasard.
@@ -49,9 +50,9 @@ Sai obtient une audience avec le comte, mais plus tard.
 
 [[Irina Barkovitch]] attire discrètement l'attention d'Edward. Elle lui propose de boire un truc indéterminé avec elle parce que c'est drôle. Il reconnaît pas mais il boit. Elle le fait parler et on apprend qu'Edward cherche le sceptre Aménoptique (???)
 
-Au buffet, Siobhan entend une discussion à propos d'[[Honorine Bicastre]]. L'une des personne est la grand-mère de son ancienne apprentie, et la personne a qui elle parle est une inquisitrice, elle est en tenue rouge (c'est [[Skalroune]]). Sa petite-fille veut rejoindre l'inquisition.
+Au buffet, Siobhan entend une discussion à propos d'[[Honorine Bicastre]]. L'une des personne est la grand-mère de son ancienne apprentie, et la personne a qui elle parle est une inquisitrice, elle est en tenue rouge (c'est [[characters/Skalroune]]). Sa petite-fille veut rejoindre l'inquisition.
 
-Aux toilettes, Niko rencontre un homme au masque violet, qui a "aidé deux femmes à cheval, au Rideau". C'est Jean-Imbert [[jean-david-xelonus]].
+Aux toilettes, Niko rencontre un homme au masque violet, qui a "aidé deux femmes à cheval, au Rideau". C'est Jean-Imbert [[characters/Jean-David Xélonus]].
 
 Le roi arrive à la soirée et le comte donne l'ordre d'apporter le gâteau (empoisonné, pour rappel. Par nous. Haha. smh). Il est accompagné par sa fille, la princesse Orianne. Heureusement on sauve le roi parce qu'on est les GOAT.
 
@@ -66,7 +67,7 @@ Pendant le discours, Niko vole 2 pommeaux et Niko empoisonne des verres mais Tre
 
 Nous quittons le manoir. Niko nous fait l'honneur de partir avec nous. Allez go dodo à l'auberge. C'est Niko qui roule, //pataglop//, //pataglop//. Un mec se jette sous nos roues, ce gros bâtard de fraudeur à l'assurance. Niko sait pas piloter donc c'est Edward qui prend les rênes et qui n'hésite pas à rouler sur le malotru.
 
-Plus tard pendant le trajet, un mec se met sur notre trajet et nous hèle. C'est un mec avec un triban ([[jean-david-xelonus]]). Niko ralentit pour voir son visage. Alors qu'il se penche pour tenter de distinguer dans l'obscurité, il comprend que cet homme n'est pas seul mais plutôt accompagné d'une dizaine de personnes. Il nous fait remarquer que la calèche a l'air d'appartenir au roi Treherne.
+Plus tard pendant le trajet, un mec se met sur notre trajet et nous hèle. C'est un mec avec un triban ([[characters/Jean-David Xélonus]]). Niko ralentit pour voir son visage. Alors qu'il se penche pour tenter de distinguer dans l'obscurité, il comprend que cet homme n'est pas seul mais plutôt accompagné d'une dizaine de personnes. Il nous fait remarquer que la calèche a l'air d'appartenir au roi Treherne.
 Edward remarque qu'ils ont l'air d'être des marins. Il n'est pas sûr qu'ils soient de la guilde des poissonniers. 
 
 Leur chef nous dit qu'ils nous surveillent depuis un moment et qu'ils ne trouvent pas que ressemblons à des nobles. Le chef nous demande de leur remettre le contenu de la calèche. Siobhan fait un peu d'humour et le mec le prend mal. Il sort une dague et crève l'oeil du cheval, le bâtard. Du coup Siobhan les fait s'enfoncer dans les pavés en mode sables mouvants. L114 !!

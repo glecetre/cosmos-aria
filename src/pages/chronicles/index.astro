@@ -4,7 +4,9 @@ import List from "@components/List.astro";
 import ListItem from "@components/ListItem.astro";
 import Layout from "@layouts/Layout.astro";
 
-const chronicles = await getCollection("chronicles");
+const chronicles = (await getCollection("chronicles")).sort((a, b) => {
+  return b.data.order - a.data.order;
+});
 ---
 
 <Layout title="Chronicles">
@@ -15,6 +17,7 @@ const chronicles = await getCollection("chronicles");
           title={chronicle.data.title}
           href={`./chronicles/${chronicle.slug}`}
           actionText="Read"
+          subtitle={`Entry ${chronicle.data.order}`}
         />
       ))
     }

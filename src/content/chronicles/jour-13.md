@@ -1,5 +1,6 @@
 ---
 title: Jour 13
+order: 11
 ---
 ! Matin
 
@@ -24,10 +25,10 @@ On nous explique que le grand empereur d'Amasya est considéré comme étant la 
 Edward analyse les fleurs : l'une est un Pois Rouge d'Amasya, un poison violent. 
 
 On retourne voir Gourmandise. Edward lui donne la fleur empoisonnée. Gourmandise va la mettre sur la part d'un gâteau, part qui sera donnée à l'invité d'honneur de la soirée.
-On va ensuite discuter à l'auberge de l’arbalète pour établir un plan. Après notre discussion, une personne avec un chapeau à plume ([[jean-david-xelonus]] ?) nous fait comprendre qu'il a tout entendu et se casse.
+On va ensuite discuter à l'auberge de l’arbalète pour établir un plan. Après notre discussion, une personne avec un chapeau à plume ([[characters/Jean-David Xélonus]] ?) nous fait comprendre qu'il a tout entendu et se casse.
 
-On retourne au repère des voleurs. [[Aristarque]] nous donne les invitations pour la soirée. Il nous demande un service : il veut que nous vidions le contenu d'une fiole dans le verre de Tréherne à minuit. Edward analyse la fiole : c'est une potion de confusion.
-On doit lui laisser un message "c'est fait" lorsqu'on aura fait cette tâche. En échange on lui demande de se renseigner sur la personne au chapeau à plume ([[jean-david-xelonus]] ?).
+On retourne au repère des voleurs. [[characters/Aristarque]] nous donne les invitations pour la soirée. Il nous demande un service : il veut que nous vidions le contenu d'une fiole dans le verre de Tréherne à minuit. Edward analyse la fiole : c'est une potion de confusion.
+On doit lui laisser un message "c'est fait" lorsqu'on aura fait cette tâche. En échange on lui demande de se renseigner sur la personne au chapeau à plume ([[characters/Jean-David Xélonus]] ?).
 
 On prend tous une identité secondaire :
 

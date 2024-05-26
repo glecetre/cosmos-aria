@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import List from "@components/List.astro";
 import ListItem from "@components/ListItem.astro";
 import Layout from "@layouts/Layout.astro";
+import { getName } from "@utils/character";
 
 const characters = await getCollection("characters");
 ---
@@ -13,7 +14,7 @@ const characters = await getCollection("characters");
       characters.map((character) => (
         <>
           <ListItem
-            title={character.data.name}
+            title={getName(character)}
             href={`./characters/${character.slug}`}
           />
         </>

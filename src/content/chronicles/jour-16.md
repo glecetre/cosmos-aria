@@ -1,5 +1,6 @@
 ---
 title: Jour 16
+order: 14
 ---
 
 On s'arrête à Naporia, un petit village côtier et on se dirige vers la taverne "La Morue Glorieuse". On constate aussi qu'il y a un temple à côté de la ville, dans les hauteurs. Siobhan reste dans le bateau pour se reposer.

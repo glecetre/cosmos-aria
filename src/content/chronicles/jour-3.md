@@ -1,11 +1,10 @@
 ---
 title: Jour 3
+order: 1
 ---
-
 # Jour 2 (fin)
 
-Ermance et Flora se sont enfuites vers l'est, d'après Niko
-
+[Dame Hermance](characters/Dame%20Hermance.md) et Flora se sont enfuites vers l'est, d'après Niko.
 # Jour 3
 
 Roget a lancé un avis de recherche pour ces deux femmes

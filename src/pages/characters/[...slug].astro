@@ -2,6 +2,7 @@
 import type { GetStaticPathsResult } from "astro";
 import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "@layouts/Layout.astro";
+import { getName } from "@utils/character";
 
 interface Props {
   entry: CollectionEntry<"characters">;
@@ -20,7 +21,7 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 ---
 
-<Layout title={entry.data.name} subtitle="Character">
+<Layout title={getName(entry)} subtitle="Character">
   <section class="prose text-justify text-xl">
     <Content />
   </section>

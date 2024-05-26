@@ -1,5 +1,6 @@
 ---
 title: Jour 5
+order: 3
 ---
 Sai nous avoue son crime, raison de la mise à prix de sa tête : il a triché pour obtenir sa licence de juge
 Go la mine pour affronter les 4 qui récupèrent habituellement le fer
